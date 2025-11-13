@@ -41,7 +41,9 @@ body {font-family: "Raleway", Arial, sans-serif}
 
 <!-- Footer / About Section -->
 <footer class="w3-light-grey w3-padding-64 w3-center" id="about">
-  <h2>About</h2>
+  <h2>About Me</h2>
+  BIO:
+  Terry J. Jung is a last- year student attending Howard Community College has received his AA degree in General Studies during the previous semester, and he is working to get an AA degree in Audio Video Media Production.  He has received a Pell grant, and he was a beneficiary of the Project Access scholarship, and the HCEF scholarship, and the covid-relief funds from Howard Community College to complete his degree and eventually transfer to a four-year institution for his bachelor’s degree in media and arts. In his education, Terry hones his skills to edit videos, write papers, and create digital art for his courses. Terry also volunteers at the VA hospital to transport patients from their designated areas to potentially go to grad school for his master’s degree in media or digital arts or to apply for a job after his bachelor’s degree in media or the arts. 
   <img src="/w3images/boy.jpg" class="w3-image w3-padding-32" width="300" height="300">
   <form style="margin:auto;width:60%" action="/action_page.php" target="_blank">
     <p>Just me, myself and I, exploring the universe of unknownment. I have a heart of love and an interest of lorem ipsum and mauris neque quam blog. I want to share my world with you. Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla. Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
