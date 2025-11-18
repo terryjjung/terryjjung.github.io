@@ -1,1 +1,75 @@
---
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+</title> Terry Jung</title>
+<!--Contact Me Section-->
+<footer class="w3-light-grey w3-padding-64 w3-center" id="contact">
+      Email: TerryJJung@outlook.com
+      <div>Linkedin: Terry Jung<div>
+     <a href=https://www.linkedin.com/terry-jung-0b3b88349/@terryjung0b3b88349class="button">Linkedin</a>
+      Phone # : +1(410)-952-8616
+    <!--About Section -->
+<footer class="w3-light-grey w3-padding-64 w3-center" id="about">
+  <h2> About Me<h2>
+BIO:Terry J. Jung is a last- year student attending Howard Community College has received his AA degree in General Studies during the previous semester, and he is working to get an AA degree in Audio Video Media Production. He has received a Pell grant, and he was a beneficiary of the Project Access scholarship, and the HCEF scholarship, and the covid-relief funds from Howard Community College to complete his degree and eventually transfer to a four-year institution for his bachelor’s degree in media and arts. In his education, Terry hones his skills to edit videos, write papers, and create digital art for his courses. Terry also volunteers at the VA hospital to transport patients from their designated areas to potentially go to grad school for his master’s degree in media or digital arts or to apply for a job after his bachelor’s degree in media or the arts.
+        <meta charset="UTF-8"
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.linkedin.com/in/terry-jung-0b3b88349/>
+<link rel="stylesheet" href="https://https://www.canva.com/design/DAG4nQCCA4s/cytAZIGFRKRRrSoIHxPDhQ/edit/AVMP-150 Final Project.pptx>
+<link rel="stylesheet" href= /Portfolio>
+<style>
+body,h1 {font-family: "Raleway", Arial, sans-serif}
+h1 {letter-spacing: 6px}
+.w3-row-padding img {margin-bottom: 12px}
+</style>
+</head>
+<body>
+  <!-- Header --> 
+<header class="w3-panel w3-center w3-opacity" style="padding:128px 16px">
+  <h1 class="w3-xlarge">MEDIA PRODUCTION</h1>
+<h1> Terry Jung <h1>
+<!-- !PAGE CONTENT! -->
+<div class="w3-content" style="max-width:1500px"
+<div class="w3-padding-32">
+    <div class="w3-bar w3-border">
+      <a> href="https://www.linkedin.com/in/terryjung"</a>
+      <a href=https:/<div class="""Collected Works">
+    <img src="" https://www.photopea.com/?state=%7B%22ids%22:%5B%221XtVe7M4C43cgAOa7jM6znKDTsh3nQCgy%22%5D,%22action%22:%22open%22,%22userId%22:%22112195719744352437454%22,%22resourceKeys%22:%7B%7D%7D">
+    <img src="" https://www.photopea.com/?state=%7B%22ids%22:%5B%221SOp0Hi8jZMndANQ2hTg3gws3bJBxP5YL%22%5D,%22action%22:%22open%22,%22userId%22:%22112195719744352437454%22,%22resourceKeys%22:%7B%7D%7D">
+    <img src=""https://www.photopea.com/?state=%7B%22ids%22:%5B%221SwhBWNk1OjgRh6C4_ELe6QE0wI-_3X3D%22%5D,%22action%22:%22open%22,%22userId%22:%22112195719744352437454%22,%22resourceKeys%22:%7B%7D%7D">
+    <img src=""https://app.luminpdf.com/viewer/6912597d92ac3bac8f400c1d?credentials-id=dcbf097b-abd0-47a4-a664-ec4b21baf016&can-join-workspace=false&from=drive">
+    <img src="" https://www.photopea.com/?state=%7B%22ids%22:%5B%221qiSNyyT6w5sEgptCiK6rsCf-Vonl6W4p%22%5D,%22action%22:%22open%22,%22userId%22:%22112195719744352437454%22,%22resourceKeys%22:%7B%7D%7D">
+    <img src=""https://www.photopea.com/?state=%7B%22ids%22:%5B%221QasABM0QdxAwVFdunNb9u4PXLwHRoyB5%22%5D,%22action%22:%22open%22,%22userId%22:%22112195719744352437454%22,%22resourceKeys%22:%7B%7D%7D">
+      <img src=""https://app.luminpdf.com/viewer/6912586992ac3bac8f3f5c66?credentials-id=6e894d0d-d25e-4135-9bba-93b44460cfe0&can-join-workspace=false&from=drive>>class="w3-bar-item w3-button"LUMNIPDF></a>
+      <a href="tj_resume.pdf" class="w3-bar-item w3-button w3-light-grey">Resume</a>
+      <a href=https:www.soundcloud.com/
+    </div>
+  </div>
+</header>
+      <!-- Photo Grid -->
+<div class="w3-row-padding" style="margin-bottom:128px">
+  <div class="Portfolio">
+
+    <img src=""acphoto.Jung-239259514.jpg  alt=Terry""class-"w3 image" width"993" height= "1109">= $0
+    <img src=""https://www.photopea.com/?state=%7B%22ids%22:%5B%221a8Uqmdy10Zejm5KhzptSQ_v-NpCkDWCE%22%5D,%22action%22:%22open%22,%22userId%22:%22112195719744352437454%22,%22resourceKeys%22:%7B%7D%7D>
+    <img src="" https://app.luminpdf.com/viewer/6912581292ac3bac8f3f257e?credentials-id=8aed6000-7a10-4807-8557-7472414eeaf4&can-join-workspace=false&from=drive">
+  </div>
+
+  <div class="Collected Works">
+    <img src="" https://www.photopea.com/?state=%7B%22ids%22:%5B%221XtVe7M4C43cgAOa7jM6znKDTsh3nQCgy%22%5D,%22action%22:%22open%22,%22userId%22:%22112195719744352437454%22,%22resourceKeys%22:%7B%7D%7D">
+    <img src="" https://www.photopea.com/?state=%7B%22ids%22:%5B%221SOp0Hi8jZMndANQ2hTg3gws3bJBxP5YL%22%5D,%22action%22:%22open%22,%22userId%22:%22112195719744352437454%22,%22resourceKeys%22:%7B%7D%7D">
+    <img src=""https://www.photopea.com/?state=%7B%22ids%22:%5B%221SwhBWNk1OjgRh6C4_ELe6QE0wI-_3X3D%22%5D,%22action%22:%22open%22,%22userId%22:%22112195719744352437454%22,%22resourceKeys%22:%7B%7D%7D">
+    <img src=""https://app.luminpdf.com/viewer/6912597d92ac3bac8f400c1d?credentials-id=dcbf097b-abd0-47a4-a664-ec4b21baf016&can-join-workspace=false&from=drive">
+    <img src="" https://www.photopea.com/?state=%7B%22ids%22:%5B%221qiSNyyT6w5sEgptCiK6rsCf-Vonl6W4p%22%5D,%22action%22:%22open%22,%22userId%22:%22112195719744352437454%22,%22resourceKeys%22:%7B%7D%7D">
+    <img src=""https://www.photopea.com/?state=%7B%22ids%22:%5B%221QasABM0QdxAwVFdunNb9u4PXLwHRoyB5%22%5D,%22action%22:%22open%22,%22userId%22:%22112195719744352437454%22,%22resourceKeys%22:%7B%7D%7D">
+      <img src=""https://app.luminpdf.com/viewer/6912586992ac3bac8f3f5c66?credentials-id=6e894d0d-d25e-4135-9bba-93b44460cfe0&can-join-workspace=false&from=drive>>
+  </div>
+</div>
+
+<!-- End Page Content -->
+</div>
+
+
+</body>
+</html>
